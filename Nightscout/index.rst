@@ -1,5 +1,5 @@
-Official community-maintained Nightscout documentation
-======================================================
+Community-maintained Nightscout documentation
+=============================================
 
 Select your language below.
 
@@ -7,4 +7,4 @@ Select your language below.
    :maxdepth: 1
    :glob:
 
-   English <Nightscout/EN/index>
+   English </EN/>
