@@ -10,13 +10,13 @@ Finding the profile editor
 
 The profile editor is available in the `Settings menu <./settings-menu.html>`__.
 
-.. image:: profileeditorinmenu.jpg
+.. image:: ../Images/profileeditorinmenu.jpg
 	:alt: profile editor
 	:align: center
 
 Alternatively, you can find the profile editor by appending ``/profile`` to the end of your site name.
 
-.. image:: profileeditorinurl.jpg
+.. image:: ../Images/profileeditorinurl.jpg
 	:alt: profile editor
 	:align: center
 
@@ -35,7 +35,7 @@ Values to be set
 
 Some example profiles are `here <https://github.com/nightscout/cgm-remote-monitor/blob/master/example-profiles.md>`__.
 
-.. image:: profileeditor.jpg
+.. image:: ../Images/profileeditor.jpg
 	:alt: profile editor
 	:align: center
 

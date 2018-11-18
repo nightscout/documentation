@@ -10,14 +10,14 @@ Open your website in a browser window. If you do not know your website URL, ref
 
 The Nightscout user interface varies in features, depending on the `configuration`_ and `settings menu`_ options you have selected. A very basic Nightscout website looks like this.
 
-.. image:: Simple_site.jpg
+.. image:: ../Images/Simple_site.jpg
 	:width: 600 px
 	:alt: a simple site
 	:align: center
 
 ...while a site with many features enabled looks like this.
 
-.. image:: enriched_site.jpg
+.. image:: ../Images/enriched_site.jpg
 	:width: 600 px
 	:alt: a site with many features enabled
 	:align: center
@@ -28,7 +28,7 @@ Understanding the main layout
 
 For the sake of completeness, this guide will explain all the components on a site with many features enabled. Your site is laid out into six main sections, as shown below.
 
-.. image:: site_layout.jpg
+.. image:: ../Images/site_layout.jpg
 	:width: 600 px
 	:alt: new site with no data
 	:align: center
@@ -45,7 +45,7 @@ Each section is described in further detail below.
 Section 1: The title bar
 ------------------------
 
-.. image:: titlebar.jpg
+.. image:: ../Images/titlebar.jpg
    :width: 600 px
    :alt: title bar
    :align: center
@@ -74,18 +74,18 @@ Here is an explanation of the various elements in this section of the user inter
 
 ----
 	
-.. |t1r1c1| image:: title.jpg
-.. |t1r2c1| image:: locked.jpg
-.. |mysteryimage| image:: mysteryimage.jpg
-.. |mysteryimagered| image:: mysteryimagered.jpg
-.. |t1r3c1| image:: audiotoggle.jpg
-.. |t1r4c1| image:: mainmenu.jpg
-.. |t1r5c1| image:: careportal.jpg
+.. |t1r1c1| image:: ../Images/title.jpg
+.. |t1r2c1| image:: ../Images/locked.jpg
+.. |mysteryimage| image:: ../Images/mysteryimage.jpg
+.. |mysteryimagered| image:: ../Images/mysteryimagered.jpg
+.. |t1r3c1| image:: ../Images/audiotoggle.jpg
+.. |t1r4c1| image:: ../Images/mainmenu.jpg
+.. |t1r5c1| image:: ../Images/careportal.jpg
 
 Section 2: Current system status
 --------------------------------
 
-.. image:: currentsystemstatus.jpg
+.. image:: ../Images/currentsystemstatus.jpg
    :alt: current system status
    :align: center
 
@@ -118,18 +118,18 @@ Here is an explanation of the various elements in this section of the user inter
 
 ----	
 	
-.. |t2r1c1| image:: currenttime.jpg
-.. |t2r2c1| image:: ago.jpg
-.. |t2r3c1| image:: uploaderbatt.jpg
-.. |t2r4c1| image:: pumpstatus.jpg
-.. |t2r5c1| image:: openapstime.jpg
-.. |t2r6c1| image:: charttimeframe.jpg
-.. |t2r7c1| image:: predictionlinesmenu.jpg
+.. |t2r1c1| image:: ../Images/currenttime.jpg
+.. |t2r2c1| image:: ../Images/ago.jpg
+.. |t2r3c1| image:: ../Images/uploaderbatt.jpg
+.. |t2r4c1| image:: ../Images/pumpstatus.jpg
+.. |t2r5c1| image:: ../Images/openapstime.jpg
+.. |t2r6c1| image:: ../Images/charttimeframe.jpg
+.. |t2r7c1| image:: ../Images/predictionlinesmenu.jpg
 
 Section 3: Current status of the person being monitored
 -------------------------------------------------------
 
-.. image:: personbeingmonitored.jpg
+.. image:: ../Images/personbeingmonitored.jpg
    :alt: current status of the person being monitored
    :align: center
 
@@ -165,21 +165,21 @@ Here is an explanation of the various elements in this section of the user inter
 
 ----
 	
-.. |t3r1c1| image:: glucosevalue.jpg
-.. |t3r2c1| image:: trendarrow.jpg
-.. |t3r3c1| image:: delta.jpg
-.. |t3r4c1| image:: iob.jpg
-.. |t3r5c1| image:: cob.jpg
-.. |t3r6c1| image:: cage.jpg
-.. |t3r7c1| image:: sage.jpg
-.. |t3r8c1| image:: basal.jpg
+.. |t3r1c1| image:: ../Images/glucosevalue.jpg
+.. |t3r2c1| image:: ../Images/trendarrow.jpg
+.. |t3r3c1| image:: ../Images/delta.jpg
+.. |t3r4c1| image:: ../Images/iob.jpg
+.. |t3r5c1| image:: ../Images/cob.jpg
+.. |t3r6c1| image:: ../Images/cage.jpg
+.. |t3r7c1| image:: ../Images/sage.jpg
+.. |t3r8c1| image:: ../Images/basal.jpg
 	 
 Section 4: Basal infusion over time
 -----------------------------------
 
 If this section is not visible to you, you may enable it in the `settings menu`_, under ``Render Basal``. The image below shows the ``default`` visualisation. It is also possible to show this graph reversed vertically (upside down) using the ``icicle`` visualisation. 
 
-.. image:: basalovertime.jpg
+.. image:: ../Images/basalovertime.jpg
    :alt: basal rates over time
    :align: center
 
@@ -200,14 +200,14 @@ Here is an explanation of the various elements in this section of the user inter
 
 ----
 
-.. |t4r1c1| image:: basalrate.jpg
-.. |t4r2c1| image:: basalgraph.jpg
-.. |t4r3c1| image:: programmedbasal.jpg
+.. |t4r1c1| image:: ../Images/basalrate.jpg
+.. |t4r2c1| image:: ../Images/basalgraph.jpg
+.. |t4r3c1| image:: ../Images/programmedbasal.jpg
 
 Section 5: Glucose and treatments over time
 -------------------------------------------
 
-.. image:: glucoseandtreatmentsovertime.jpg
+.. image:: ../Images/glucoseandtreatmentsovertime.jpg
    :alt: glucose and treatments over time
    :align: center
 
@@ -248,21 +248,21 @@ Here is an explanation of the various elements in this section of the user inter
 	
 ----
 
-.. |t5r1c1| image:: glucosedots.jpg
-.. |t5r2c1| image:: carbvalue.jpg
-.. |t5r3c1| image:: insulinvalue.jpg
-.. |t5r4c1| image:: verticalline.jpg
-.. |t5r5c1| image:: predictionlines.jpg
-.. |t5r6c1| image:: thresholdlines.jpg
-.. |t5r7c1| image:: note.jpg
-.. |t5r8c1| image:: calibration.jpg
-.. |t5r9c1| image:: scale.jpg
+.. |t5r1c1| image:: ../Images/glucosedots.jpg
+.. |t5r2c1| image:: ../Images/carbvalue.jpg
+.. |t5r3c1| image:: ../Images/insulinvalue.jpg
+.. |t5r4c1| image:: ../Images/verticalline.jpg
+.. |t5r5c1| image:: ../Images/predictionlines.jpg
+.. |t5r6c1| image:: ../Images/thresholdlines.jpg
+.. |t5r7c1| image:: ../Images/note.jpg
+.. |t5r8c1| image:: ../Images/calibration.jpg
+.. |t5r9c1| image:: ../Images/scale.jpg
 
 
 Section 6: 48-hour history
 --------------------------
 
-.. image:: 48hourfull.jpg
+.. image:: ../Images/48hourfull.jpg
    :alt: glucose values over the last 48 hours
    :align: center
 

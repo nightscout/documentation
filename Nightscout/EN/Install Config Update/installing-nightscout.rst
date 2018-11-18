@@ -18,7 +18,7 @@ Please `switch from Azure to Heroku <http://openaps.readthedocs.io/en/latest/doc
 
 .. Hint:: If following your installation your site appears empty, as in there are no glucose or other data visible, then you will need to `configure an uploader <../Before%20you%20start/uploader-software.html>`_. If your site does not resemble this at all (white or black screen, dashes, error message), have a look at the `troubleshooting guide <../Troubleshooting%20and%20questions/troubleshooting-guide.html>`_.
 
-	.. image:: New_site_no_data.jpg
+	.. image:: ../Images/New_site_no_data.jpg
 		:width: 400 px
 		:alt: new site with no data
 		:align: center

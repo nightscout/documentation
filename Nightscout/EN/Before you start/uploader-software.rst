@@ -8,7 +8,7 @@ Finding your Nightscout URL
 
 Firstly, in order to configure uploader software you will need your Nightscout URL and API_SECRET. There is an `autoconfigure tool <https://nightscout.github.io/pages/configure/>`_ which will be helpful if your device supports reading of QR codes.
 
-.. image:: configureuploader.jpg
+.. image:: ../Images/configureuploader.jpg
 	:width: 400 px
 	:alt: autoconfigure tool
 	:align: center

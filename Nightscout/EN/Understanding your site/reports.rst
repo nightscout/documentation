@@ -3,7 +3,7 @@ Nightscout reports
 
 This page describes the various reporting options in Nightscout.
 
-.. image:: reportsnightscoutreporting.jpg
+.. image:: ../Images/reportsnightscoutreporting.jpg
    :alt: Nightscout reporting
    :align: center
 
@@ -15,20 +15,20 @@ Reports can be accessed in one of two ways:
 
 - From the `settings menu`_: Click the menu and select **Reports**.
 
-.. image:: reportsinmenu.jpg
+.. image:: ../Images/reportsinmenu.jpg
    :alt: reports shown in the menu
    :align: center
 
 - From the URL: Enter your Nightscout site and append **/reports** to the end:
 
-.. image:: reportsurl.jpg
+.. image:: ../Images/reportsurl.jpg
    :alt: reports accessed from the URL
    :align: center
    
 Report types
 ------------
 
-.. image:: reporttypes.jpg
+.. image:: ../Images/reporttypes.jpg
    :alt: reports types
    :align: center
 
@@ -38,13 +38,13 @@ There are 9 reports available from Nightscout. Each report is available by click
 
 This report shows the blood glucose curve of each day. Additional information can also be shown, such as carbohydrates, insulin delivery, and basal rate. The image below shows an example of one day.
 
-.. image:: reportdaytoday.jpg
+.. image:: ../Images/reportdaytoday.jpg
    :alt: Day to day
    :align: center
    
 This is the only report to have additional customization options. You may experiment selecting the different options and clicking **Show** to see what each option adds to the report. Note, the **Size** drop down is especially useful for reducing the size of this report such that it can be printed.
 
-.. image:: reportdaytodayoptions.jpg
+.. image:: ../Images/reportdaytodayoptions.jpg
    :alt: Day to day
    :align: center
 
@@ -52,7 +52,7 @@ This is the only report to have additional customization options. You may experi
 
 This report shows the time in range on a day by day basis, along with other useful information like highest and lowest readings.
 
-.. image:: reportdailystats.jpg
+.. image:: ../Images/reportdailystats.jpg
    :alt: Daily stats
    :align: center
 
@@ -60,7 +60,7 @@ This report shows the time in range on a day by day basis, along with other usef
 
 This report shows time in range over the entire selected period. It also shows an estimate of HbA1C and other useful statistics such as time in fluctuation. Click to get more in-depth information `about GVI`_ and `about PGS`_. 
 
-.. image:: reportdistribution.jpg
+.. image:: ../Images/reportdistribution.jpg
    :alt: Distribution
    :align: center
 
@@ -68,7 +68,7 @@ This report shows time in range over the entire selected period. It also shows a
 
 This report shows distribution of glucose over each hour of the day. If temp basals are rendered, a second table is displayed showing netIOB on a daily and hourly basis.
 
-.. image:: reporthourlystats.jpg
+.. image:: ../Images/reporthourlystats.jpg
    :alt: Hourly stats
    :align: center
 
@@ -76,7 +76,7 @@ This report shows distribution of glucose over each hour of the day. If temp bas
 
 This report shows distribution of glucose over each hour of the day, in a percentile chart.
 
-.. image:: reportpercentilechart.jpg
+.. image:: ../Images/reportpercentilechart.jpg
    :alt: Percentile chart
    :align: center
 
@@ -84,7 +84,7 @@ This report shows distribution of glucose over each hour of the day, in a percen
 
 This report shows percentage of low, in range, and high readings on a weekly basis. This report requires a minimum of 7 days' worth of data to be available.
 
-.. image:: reportweeklysuccess.jpg
+.. image:: ../Images/reportweeklysuccess.jpg
    :alt: Weekly success
    :align: center
 
@@ -92,7 +92,7 @@ This report shows percentage of low, in range, and high readings on a weekly bas
 
 This report shows the history of sensor calibrations and how glucose values correlate to interstitial values measured by the sensor. You may graph individual calibrations by selecting the checkbox next to the label MBG.
 
-.. image:: reportcalibrations.jpg
+.. image:: ../Images/reportcalibrations.jpg
    :alt: Calibrations
    :align: center
 
@@ -100,7 +100,7 @@ This report shows the history of sensor calibrations and how glucose values corr
 
 This report allows you to view, edit or delete items in the history of treatments uploaded to Nightscout, including bolus, temp basal, and carb entries. Because this view takes longer to load, you need to click the "Show" button while on this view specifically to load it. You will only be able to edit or delete entries in this report if your device is authenticated. See the section `Authentication status`_ below.
 
-.. image:: reporttreatments.jpg
+.. image:: ../Images/reporttreatments.jpg
    :alt: Treatments
    :align: center
 
@@ -108,14 +108,14 @@ This report allows you to view, edit or delete items in the history of treatment
 
 This report shows the profiles available in Nightscout. For more about profiles, see the section `profile editor`_.
 
-.. image:: reportprofiles.jpg
+.. image:: ../Images/reportprofiles.jpg
    :alt: Profiles
    :align: center
 
 Choosing report options
 -----------------------
 
-.. image:: reportsoptions.jpg
+.. image:: ../Images/reportsoptions.jpg
    :alt: report options
    :align: center
 
@@ -138,13 +138,13 @@ You do not need to authenticate your device if all you would like to do is run a
 
 If your device is unauthorized, click the **Authenticate** link. This will open a window asking you to enter your **API secret**, as created when you `set up and configured your site`_. You may also check a box to save your authenticated status on your device ("store hash"), so you do not need to re-authenticate each time you reopen your Nightscout site.
 
-.. image:: reportsauthenticationunauthorized.jpg
+.. image:: ../Images/reportsauthenticationunauthorized.jpg
    :alt: device unauthorized
    :align: center
 
 If you would like to de-authenticate your device, click **Remove**.
 
-.. image:: reportsauthenticationauthorized.jpg
+.. image:: ../Images/reportsauthenticationauthorized.jpg
    :alt: device authorized
    :align: center
    

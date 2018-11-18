@@ -1,21 +1,13 @@
 Pushover
 ========
 
-In addition to the normal web based alarms, there is also support for
-`Pushover <https://pushover.net/>`__ based alarms and notifications.
+In addition to the normal web based alarms, there is also support for `Pushover <https://pushover.net/>`__ based alarms and notifications.
 
-To get started install the Pushover application on your iOS or Android
-device and create an account.
+To get started install the Pushover application on your iOS or Android device and create an account.
 
-Using that account login to `Pushover <https://pushover.net/>`__, in the
-top left you’ll see your User Key, you’ll need this plus an application
-API Token/Key to complete this setup.
+Using that account login to `Pushover <https://pushover.net/>`__, in the top left you’ll see your User Key, you’ll need this plus an application API Token/Key to complete this setup.
 
-You’ll need to `Create a Pushover
-Application <https://pushover.net/apps/build>`__. You only need to set
-the Application name, you can ignore all the other settings, but setting
-an Icon is a nice touch. Maybe you'd like to use `this
-one <https://raw.githubusercontent.com/nightscout/cgm-remote-monitor/master/static/images/large.png>`__?
+You’ll need to `Create a Pushover Application <https://pushover.net/apps/build>`__. You only need to set the Application name, you can ignore all the other settings, but setting an Icon is a nice touch. Maybe you'd like to use `this one <https://raw.githubusercontent.com/nightscout/cgm-remote-monitor/master/static/images/large.png>`__?
 
 Pushover is configured using the following Environment Variables:
 

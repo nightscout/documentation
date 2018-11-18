@@ -6,7 +6,7 @@ Nightscout - Home
 .. image:: https://www.herokucdn.com/deploy/button.png
    :target: https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnightscout%2Fcgm-remote-monitor&template=https%3A%2F%2Fgithub.com%2Fnightscout%2Fcgm-remote-monitor
 
-.. image:: update.png
+.. image:: ./Images/update.png
    :target: http://nightscout.github.io/pages/update-fork/
    
 Welcome to Nightscout's documentation! Choose a link below to get started. Not sure where to start? Click `here <About%20Nightscout/what-is-nightscout.html>`_ to learn more.
