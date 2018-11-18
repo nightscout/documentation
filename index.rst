@@ -1,11 +1,11 @@
-#WeAreNotWaiting - Documentation home
-=====================================
+#WeAreNotWaiting
+================
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Open source documentation for the #WeAreNotWaiting community
+   :caption: Open source documentation
    
-    Nightscout <Nightscout/index>
-	OpenAPS <https://openaps.readthedocs.io/en/latest/>
-	AndroidAPS <http://wiki.androidaps.org>
+    Nightscout <./Nightscout/index.html>
+    OpenAPS <https://openaps.readthedocs.io/en/latest/>
+    AndroidAPS <http://wiki.androidaps.org>
