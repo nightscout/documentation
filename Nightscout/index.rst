@@ -1,6 +1,10 @@
+Official community-maintained Nightscout documentation
+======================================================
+
+Select your language below.
+
 .. toctree::
    :maxdepth: 1
-   :caption: Nightscout documentation - select your language
    :glob:
 
    English </EN/index>

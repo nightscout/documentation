@@ -14,7 +14,7 @@ Hosted in this repository:
    :maxdepth: 1
    :glob:
 
-   Nightscout <./Nightscout/index>
+   Nightscout </Nightscout/index>
 
 
 
