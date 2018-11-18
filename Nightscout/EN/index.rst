@@ -23,6 +23,7 @@ All information, thought, and code described here is intended for informational 
    :glob:
    :caption: Section 1: About Nightscout
    
+    Section 1: About Nightscout <./About Nightscout/index.rst>
     What is Nightscout? <./About Nightscout/what-is-nightscout.rst>
     Project background <./About Nightscout/project-background.rst>
     How to contribute <./About Nightscout/how-to-contribute.rst>
