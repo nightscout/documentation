@@ -21,22 +21,14 @@ All information, thought, and code described here is intended for informational 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Section 1: About Nightscout
    
     Section 1: About Nightscout <./About Nightscout/index.rst>
-    What is Nightscout? <./About Nightscout/what-is-nightscout.rst>
-    Project background <./About Nightscout/project-background.rst>
-    How to contribute <./About Nightscout/how-to-contribute.rst>
-    Where to get help <./About Nightscout/where-to-get-help.rst>
-    License and disclaimers <./About Nightscout/license-disclaimers.rst>
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Section 2: Before you start
-   
-    Compatible CGM hardware <./Before you start/compatible-cgm-hardware.rst>
-    Uploader software <./Before you start/uploader-software.rst>
+    
+	Section 2: Before you start <./Before you start/index.rst>
 
 .. toctree::
    :maxdepth: 2
