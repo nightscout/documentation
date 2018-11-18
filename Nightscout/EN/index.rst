@@ -22,42 +22,32 @@ All information, thought, and code described here is intended for informational 
    :maxdepth: 2
    :glob:
    
-    Section 1: About Nightscout <./About Nightscout/index.rst>
+   Section 1: About Nightscout <./About Nightscout/index.rst>
 
 .. toctree::
    :maxdepth: 2
    :glob:
     
-	Section 2: Before you start <./Before you start/index.rst>
+   Section 2: Before you start <./Before you start/index.rst>
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Section 3: Install, config, and updates
    
-    Installing Nightscout <./Install Config Update/installing-nightscout.rst>
-    Server-side configuration <./Install Config Update/server-side-configuration.rst>
-    Updating your site <./Install Config Update/updating-your-site.rst>
-
+   Section 3: Install, config, and updates <./Install Config Update/index.rst>
+   
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Section 4: Understanding your Nightscout site
    
-    Main user interface <./Understanding your site/main-user-interface.rst>
-	Settings menu <./Understanding your site/settings-menu.rst>
-    Reports <./Understanding your site/reports.rst>
-    Profile editor <./Understanding your site/profile-editor.rst>
-    Care portal <./Understanding your site/care-portal.rst>
-
+   Section 4: Understanding your Nightscout site  <./Understanding your site/index.rst>
+   
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Section 5: Site maintenance
-   
-    Admin tools <./Site maintenance/admin-tools.rst>
-    Database maintenance <./Site maintenance/database-maintenance.rst>
 
+   Section 5: Site maintenance <./Site maintenance/index.rst>
+   
 .. toctree::
    :maxdepth: 2
    :glob:
