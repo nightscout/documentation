@@ -9,7 +9,7 @@ The tool will guide you through the update process, which takes place in two ste
 2. Redeploying the site to Azure or Heroku
 
 
-.. image:: ../update.png
+.. image:: ../Images/update.png
    :target: http://nightscout.github.io/pages/update-fork/
    :align: center
    
