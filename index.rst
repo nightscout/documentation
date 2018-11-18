@@ -1,7 +1,7 @@
 #WeAreNotWaiting
 ================
 
-This page contains links to open source documentation for the #WeAreNotWaiting movement
+This page contains links to open source documentation for the #WeAreNotWaiting movement.
 
 Hosted on other repositories:
 
