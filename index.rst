@@ -1,11 +1,6 @@
 #WeAreNotWaiting
 ================
 
-.. toctree::
-   :maxdepth: 1
-   :glob:
-   :caption: Open source documentation
-   
-    Nightscout <./Nightscout/index.rst>
-    OpenAPS <https://openaps.readthedocs.io/en/latest/>
-    AndroidAPS <http://wiki.androidaps.org>
+`Nightscout <./Nightscout/index.rst>`_
+`OpenAPS <https://openaps.readthedocs.io/en/latest/>`_
+`AndroidAPS <http://wiki.androidaps.org>`_
