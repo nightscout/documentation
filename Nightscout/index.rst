@@ -7,4 +7,4 @@ Select your language below.
    :maxdepth: 1
    :glob:
 
-   English </EN/>
+   English </EN/index>
