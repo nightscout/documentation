@@ -2,10 +2,10 @@
 ================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :glob:
    :caption: Open source documentation
    
-    Nightscout <./Nightscout/index.html>
+    Nightscout <./Nightscout/index>
     OpenAPS <https://openaps.readthedocs.io/en/latest/>
     AndroidAPS <http://wiki.androidaps.org>
