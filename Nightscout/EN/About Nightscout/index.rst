@@ -4,7 +4,6 @@ Section 1: About Nightscout
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Section 1: About Nightscout
 	
 	What is Nightscout? <./what-is-nightscout.rst>
     Project background <./project-background.rst>
