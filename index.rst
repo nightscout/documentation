@@ -11,7 +11,7 @@ Hosted on other repositories:
 Hosted in this repository:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :glob:
 
    Nightscout </Nightscout/index>
