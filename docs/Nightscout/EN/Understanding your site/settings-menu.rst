@@ -3,6 +3,10 @@ Settings menu
 
 WORK IN PROGRESS
 
+
+Text
+
+
    -  The default ``log`` (logarithmic) option will let you see more
       detail towards the lower range, while still showing the full CGM
       range.
