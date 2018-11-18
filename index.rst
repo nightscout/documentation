@@ -1,6 +1,6 @@
 #WeAreNotWaiting
 ================
 
-`Nightscout <./Nightscout/index.rst>`_
-`OpenAPS <https://openaps.readthedocs.io/en/latest/>`_
-`AndroidAPS <http://wiki.androidaps.org>`_
+- `Nightscout <./Nightscout/index.html>`_
+- `OpenAPS <https://openaps.readthedocs.io/en/latest/>`_
+- `AndroidAPS <http://wiki.androidaps.org>`_
