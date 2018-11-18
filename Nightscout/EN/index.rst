@@ -51,26 +51,18 @@ All information, thought, and code described here is intended for informational 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Section 6: 3rd party integration
-   
-    Pushover <./3rd party integration/pushover.rst>
-    IFTTT <./3rd party integration/IFTTT.rst>
-	
+
+   Section 6: 3rd party integration <./3rd party integration/index.rst>
+   	
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Section 7: Technical information / Advanced
 
-    Local implementation <./Technical info/local-implementation.rst>
-    Database structure <./Technical info/database-structure.rst>
-    Authentication model <./Technical info/authentication-model.rst>
-	Nightscout API <./Technical info/api.rst>
+   Section 7: Technical information / Advanced <./Technical info/index.rst>
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Section 8: Troubleshooting and questions
 
-    Glossary of terms <./Troubleshooting and questions/glossary-of-terms.rst>
-	Troubleshooting guide <./Troubleshooting and questions/troubleshooting-guide.rst>
-    FAQ <./Troubleshooting and questions/FAQ.rst>
+   Section 8: Troubleshooting and questions <./Troubleshooting and questions/index.rst>
+
