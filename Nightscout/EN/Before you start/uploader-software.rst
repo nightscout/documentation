@@ -22,7 +22,7 @@ The following open source uploaders connect to a wide range of CGM hardware, and
 
 - `Xdrip+ (Android) <https://jamorham.github.io/#xdrip-plus>`_
 - `Spike (iOS) <https://spike-app.com/>`_
-- `Medtronic 600 series Android uploader <https://github.com/pazaan/600SeriesAndroidUploader/>`_ (see complete setup cookbook `here <https://docs.google.com/document/d/1sfpi5iUZ8aozl-udEkuKc6dTypFVr444tB7tUs4o4jE/edit>`_
+- `Medtronic 600 series Android uploader <https://github.com/pazaan/600SeriesAndroidUploader/>`_ (see complete setup cookbook `here <https://docs.google.com/document/d/1sfpi5iUZ8aozl-udEkuKc6dTypFVr444tB7tUs4o4jE/edit>`_)
 
 Open source artificial pancreas systems
 ---------------------------------------
