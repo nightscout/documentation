@@ -3,10 +3,12 @@ Uploader software
 
 Below are different applications which can upload CGM and other data to Nightscout. Visit their respective pages to learn more about how to install and configure them.
 
-Finding your Nightscout URL
----------------------------
+What you'll need
+----------------
 
-Firstly, in order to configure uploader software you will need your Nightscout URL and API_SECRET. There is an `autoconfigure tool <https://nightscout.github.io/pages/configure/>`_ which will be helpful if your device supports reading of QR codes.
+In order to configure uploader software you will need your Nightscout URL and API_SECRET. 
+
+There is an `autoconfigure tool <https://nightscout.github.io/pages/configure/>`_ which will be helpful in configuring your software if your device supports reading of QR codes.
 
 .. image:: ../Images/configureuploader.jpg
 	:width: 400 px
@@ -20,6 +22,7 @@ The following open source uploaders connect to a wide range of CGM hardware, and
 
 - `Xdrip+ (Android) <https://jamorham.github.io/#xdrip-plus>`_
 - `Spike (iOS) <https://spike-app.com/>`_
+- `Medtronic 600 series Android uploader <https://github.com/pazaan/600SeriesAndroidUploader/>`_ (see complete setup cookbook `here <https://docs.google.com/document/d/1sfpi5iUZ8aozl-udEkuKc6dTypFVr444tB7tUs4o4jE/edit>`_
 
 Open source artificial pancreas systems
 ---------------------------------------
@@ -29,6 +32,11 @@ The artificial pancreas systems below are able to upload a wide range of data in
 - `AndroidAPS (Android) <https://androidaps.readthedocs.io/en/latest/EN/>`_
 - `Loop (iOS) <https://loopkit.github.io/loopdocs/>`_
 - `OpenAPS (Linux) <https://openaps.readthedocs.io/en/latest/>`_
+
+Commercial systems supported by open source software
+----------------------------------------------------
+
+- `Dexcom Share <https://github.com/nightscout/share2nightscout-bridge>`_
 
 ----------
 
